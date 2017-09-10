@@ -1,0 +1,3 @@
+rootProject.name = 'reactNavigationTransitions'
+
+include ':app'
